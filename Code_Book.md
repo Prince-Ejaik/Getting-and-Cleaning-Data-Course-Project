@@ -42,6 +42,6 @@ o	f in column’s name replaced by Frequency
 o	t in column’s name replaced by Time
 
 Final step is about the realization of a second, independent tidy data set with the average of each variable for each activity and each subject from the dataset in step 4
-o	Indepedendet_Dataset (180 rows, 88 columns) is created by sumarizing Tidy_Dataset taking the means of each variable for each activity and each subject, after groupped by subject and activity.
-o	Export Indepedendet_Dataset into Indepedendet_Dataset.txt file.
+o	Independent_Dataset (180 rows, 88 columns) is created by sumarizing Tidy_Dataset taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+o	Export Independent_Dataset into Independent_Dataset.txt file.
 
