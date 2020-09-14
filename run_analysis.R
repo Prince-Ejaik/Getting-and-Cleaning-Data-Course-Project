@@ -68,7 +68,7 @@ names(Tidy_Dataset)<-gsub("gravity", "Gravity", names(Tidy_Dataset))
 
 # Finally, step 5 creates a second, independent tidy dataset with the average of each variable for each activity and each subject from the data set in step 4.
 
-Indepedendet_Dataset <- Tidy_Dataset %>%
+Independent_Dataset <- Tidy_Dataset %>%
     group_by(subject, activity) %>%
     summarise_all(funs(mean))
-write.table(Indepedendet_Dataset, "Indepedendet_Dataset.txt", row.name=FALSE)
+write.table(Independent_Dataset, "Independent_Dataset.txt", row.name=FALSE)
