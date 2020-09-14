@@ -1,5 +1,5 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
-This submission is a requirement for the Getting and Cleaning Data course project. It has, among other things, the instructions on how to run analysis on Human Activity recognition dataset. 
+This is about Getting and Cleaning Data course project. It has, among other things, the instructions on how to run analysis on Human Activity recognition dataset. 
 
 Data was obtained from: Human Activity Recognition Using Smartphones http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Dataset for the project sourced from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
